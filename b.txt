@@ -9,3 +9,4 @@ l
 y
 re
 Enviando a funcionalidade x
+Enviando a funcionalidade B
